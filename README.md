@@ -1,6 +1,6 @@
 ## Hello There👋
 
-### I'm currently doing the last semester of my BSc Computer Science degree from University of London. 
+### I've recently completed my BSc Computer Science degree from University of London. 
 
 ### About my current work 
 - I'm developing an eLearning web application.
